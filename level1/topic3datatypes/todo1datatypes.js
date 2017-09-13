@@ -1,0 +1,1 @@
+var datatype = "Int";
