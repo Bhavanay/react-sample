@@ -1,3 +1,7 @@
+---
+slug: react-sample/level1/getting_started
+---
+
 ###### python exclusives are followed by ![greencircle](https://lh3.googleusercontent.com/-67wvkzLZ_aY/WbjktYN3-QI/AAAAAAAAAEE/Uf9CTEcBfuEZ_KLlezx54Je6om0kQN1kgCL0BGAYYCw/h10/image.png)
 ###### mapping for programs are in [program_map](program_map.md)
 # TABLE OF CONTENTS
